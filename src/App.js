@@ -12,12 +12,9 @@ import {
   CardActions,
   Button,
   Box,
-  CssBaseline,
-  IconButton,
-  Divider
+  CssBaseline
 } from '@mui/material';
 import { motion } from 'framer-motion';
-import ShoppingBagIcon from '@mui/icons-material/ShoppingBag';
 
 const products = [
   {
